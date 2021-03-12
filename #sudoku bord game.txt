@@ -1,1 +1,2 @@
 #sudoku bord game 
+game which use the Backtracking for finding the best case from the given.
