@@ -1,2 +1,6 @@
 #sudoku bord game 
+Pygame 
+Time
 game which use the Backtracking for finding the best case from the given.
+uses the pygame for backtracking.
+can be improved.!!
